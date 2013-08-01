@@ -1,4 +1,4 @@
-![Image Alt](http://cmissync.com/images/CmisSync_logo-name_200.png|float)
+![Image Alt](http://cmissync.com/images/CmisSync_logo-name_200.png|align=center)
 
 test
 
