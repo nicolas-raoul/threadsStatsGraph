@@ -1,4 +1,4 @@
-<img src="example-graph.png" style="float:right"/>
+![CmisSync logo](https://github.com/nicolas-raoul/CmisSync/raw/master/CmisSync/Windows/Pixmaps/WixUIBanner.bmp)
 
 test
 
