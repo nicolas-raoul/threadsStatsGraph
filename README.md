@@ -1,4 +1,4 @@
-<img src="example-graph.png" align="center"/>
+<img src="example-graph.png" align="middle"/>
 
 test
 
