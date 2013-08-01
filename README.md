@@ -1,3 +1,7 @@
+![Image Alt](https://github.com/Username/Repository-Name/raw/master/Directory-Inside-Repository/image.png)
+
+[[https://github.com/Username/Repository-Name/raw/master/Directory-Inside-Repository/image.png|float]]
+
 threadsStatsGraph
 =================
 
