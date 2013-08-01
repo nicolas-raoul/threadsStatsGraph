@@ -1,7 +1,3 @@
-![CmisSync logo](https://github.com/nicolas-raoul/CmisSync/raw/master/CmisSync/Windows/Pixmaps/WixUIBanner.bmp)
-
-test
-
 threadsStatsGraph
 =================
 
