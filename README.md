@@ -1,6 +1,6 @@
-![Image Alt](https://github.com/Username/Repository-Name/raw/master/Directory-Inside-Repository/image.png)
+![Image Alt](http://cmissync.com/images/CmisSync_logo-name_200.png)
 
-[[https://github.com/Username/Repository-Name/raw/master/Directory-Inside-Repository/image.png|float]]
+[[http://cmissync.com/images/CmisSync_logo-name_200.png|float]]
 
 threadsStatsGraph
 =================
