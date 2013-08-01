@@ -1,6 +1,6 @@
-![Image Alt](http://cmissync.com/images/CmisSync_logo-name_200.png)
+![Image Alt](http://cmissync.com/images/CmisSync_logo-name_200.png|float)
 
-[[http://cmissync.com/images/CmisSync_logo-name_200.png|float]]
+test
 
 threadsStatsGraph
 =================
