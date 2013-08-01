@@ -1,4 +1,4 @@
-[[example-graph.png]]
+<img src="example-graph.png" align="center"/>
 
 test
 
